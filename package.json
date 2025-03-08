@@ -1,0 +1,21 @@
+{
+  "name": "hacker-theme-blue-yellow",
+  "displayName": "Hacker Theme Blue-Yellow",
+  "description": "Hacker Theme Blue-Yellow",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hacker Theme Blue-Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hacker Theme Blue-Yellow-color-theme.json"
+      }
+    ]
+  }
+}
